@@ -1,0 +1,24 @@
+
+settings => {
+    const PRINT = function PRINT(text) {
+        console.log(text)
+    } 
+
+    const PRINT_ERR = function PRINT_ERR(text) {
+        console.error(text)
+    }
+
+    const PRINT_WARN = function PRINT_WARN(text) {
+        cosole.warn(text)
+    }
+
+}
+
+TOKENS = [
+    PRINT,
+    PRINT_ERR,
+    PRINT_WARN
+];
+
+settings_compiler = print.s;
+
