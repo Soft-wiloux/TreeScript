@@ -13,3 +13,22 @@ PRINT("Hello World")
 `
 Se añadirá más informacion al tiempo
 `
+### Pasos · 
+
+❌Paso incorrecto:
+`
+//Tu archivo.js
+const app = require('main.js')
+`
+
+
+✅Paso correcto:
+`
+//Tu archivo.js
+const app = require('TreeScript/main.js')
+`
+## Actualizaciones y noticias
+
+```
+✨Siguiente version en breve🎐
+```
