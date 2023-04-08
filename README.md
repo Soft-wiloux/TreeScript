@@ -27,6 +27,27 @@ const app = require('main.js')
 //Tu archivo.js
 const app = require('TreeScript/main.js')
 `
+
+## Errores
+Es posible que te sate un fallo por modulo al iniciar tu archivo aqui te tenemos las solucion
+```
+npm init --yes
+```
+```
+{
+  "name": "treescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TreeScript/main.js",
+  "scripts": {
+    "start": "TreeScript/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+```
 ## Actualizaciones y noticias
 
 ```
