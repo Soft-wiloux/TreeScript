@@ -47,9 +47,30 @@ npm init --yes
   "license": "ISC"
 }
 
+
 ```
+
+## Sistemas
+Se muestran los sistemas activos del lenguaje
+
+`Color system`
+```
+ PRINT_GREEN("Hola Mundo")
+ PRINT_RED("Hola Mundo")
+ PRINT_YELLOW("Hola Mundo")
+ PRINT_BLUE("Hola Mundo")
+ PRINT_MAGENTA("Hola Mundo")
+ PRINT_CYAN("Hola Mundo")
+ PRINT_WHITE("Hola Mundo")
+ PRINT_GRAY("Hola Mundo")
+ PRINT_GREY("Hola Mundo")
+ 
+```
+
 ## Actualizaciones y noticias
 
 ```
 ✨Siguiente version en breve🎐
 ```
+
+`21:55 8/04/23` ```Creado un sistema de colores```
