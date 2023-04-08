@@ -7,7 +7,7 @@ su sintaxis es muy facil y muy util ya que no tiene tantos fallos como otros len
 ```
 Puedes cojer este Hello World!!
 ```
-LEX("Hello World")
+PRINT("Hello World")
 ```
 
 `
